@@ -1,6 +1,7 @@
 ---
 layout: default
 author_profile: default
+permalink: /
 ---
 
 # Hello
