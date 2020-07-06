@@ -6,6 +6,8 @@ main:
     url: /links/
   - title: "Contribute"
     url: https://github.com/scamlab
+  - title: "EST"
+    url: /est/
   # - title: "Quick start guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
