@@ -266,11 +266,14 @@ compress_html:
     envs: development
 
 
+# Blog post excerpt (intro text) separator (add this after introduction)
+excerpt_separator: <!--more-->
+
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: /blog/
+      #path: /blog/
       type: posts
     values:
       layout: single

@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Links"
     url: /links/
+  - title: "Blog"
+    url: /blog/
   - title: "Contribute"
     url: https://github.com/scamlab
   - title: "EST"
